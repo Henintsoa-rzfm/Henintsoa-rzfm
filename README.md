@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Henintsoa, I am passionate about web development an I've got skills in Laravel and now 
+I'm following a wordpress training with SAYNA. Besides, I'm currently an intern at ISIKARAY as a laravel developper, 
+I am working on a project with them. I'm a also a student about information system and business intelligence. 
 <!--
 **Henintsoa-rzfm/Henintsoa-rzfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
