@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Henintsoa, I'm a student about information system and business intelligence. I am passionate about web development and data. Right now, I'm more in databases. I'm working on a personal project to improve my skills in SQL, PL\SQL, TRIGGERS and stuff.
+My name is Henintsoa, I'm a student about information system and business intelligence. I am passionate about web development and data.
 <!--
 **Henintsoa-rzfm/Henintsoa-rzfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
