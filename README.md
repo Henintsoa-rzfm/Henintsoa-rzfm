@@ -11,9 +11,9 @@ My name is Henintsoa, I'm an information system and business intelligence studen
 #### 🛠️ Technologies & Tools
 
 **Web Development**
-    - HTML, CSS, JavaScript
-    - Angular (currently learning)
-    - PHP, Laravel
+ - HTML, CSS, JavaScript
+ - Angular (currently learning)
+ - PHP, Laravel
     
 **Backend & Databases**
   - C#, ASP.NET Core (currently learning through personal project)
