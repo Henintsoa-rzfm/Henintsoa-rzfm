@@ -16,7 +16,7 @@ My name is Henintsoa, I'm an information system and business intelligence studen
   - SQL
 
 #### 📫 How to reach me
-    [LinkedIn (https://www.linkedin.com/in/henintsoa-razafinime-79a69125b/)]
+    [LinkedIn] (https://www.linkedin.com/in/henintsoa-razafinime-79a69125b/)
 
 
 <!--
