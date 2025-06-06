@@ -3,7 +3,9 @@ My name is Henintsoa, I'm an information system and business intelligence studen
 
 #### 🌐 About Me
 🎓 Currently studying Information Systems and Business Intelligence.
+
 💻 I enjoy building web applications. 
+
 🚀 Currently learning C# and ASP.NET Core through a personal project using Angular for the frontend.
 
 #### 🛠️ Technologies & Tools
