@@ -9,10 +9,12 @@ My name is Henintsoa, I'm an information system and business intelligence studen
 🚀 Currently learning C# and ASP.NET Core through a personal project using Angular for the frontend.
 
 #### 🛠️ Technologies & Tools
+
 **Web Development**
     - HTML, CSS, JavaScript
     - Angular (currently learning)
     - PHP, Laravel
+    
 **Backend & Databases**
   - C#, ASP.NET Core (currently learning through personal project)
   - SQL
