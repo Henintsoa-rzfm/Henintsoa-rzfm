@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Henintsoa, I'm an information system and business intelligence student passionate about web development and data.
+My name is Henintsoa RAZAFINIME, I'm an information system and business intelligence student passionate about web development and data.
 
 #### 🌐 About Me
 🎓 Currently studying Information Systems and Business Intelligence.
