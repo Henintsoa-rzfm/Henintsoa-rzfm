@@ -6,7 +6,7 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 
 💻 I enjoy building web applications. 
 
-🚀 Currently learning C# and ASP.NET Core through a personal project using Angular for the frontend.
+🚀 Currently learning C#/ASP.NET Core and Java/Spring Boot through a personal project using Angular for the frontend.
 
 #### 🛠️ Technologies & Tools
 
@@ -17,6 +17,7 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
     
 **Backend & Databases**
   - C#, ASP.NET Core (currently learning through personal project)
+  - Java, Spring Boot (currently learning)
   - SQL
 
 #### 📫 How to reach me
