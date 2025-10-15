@@ -1,10 +1,6 @@
 ### Hi there 👋
 My name is Henintsoa RAZAFINIME, I'm an information system and business intelligence student passionate about web development and data. Currently working as a Data Extraction Validator at SmartOne.ai, and actively building my skills in web development.
 
-#### 🌐 About Me
-
-💻 I enjoy building web applications. 
-
 #### 🛠️ Technologies & Tools
 
 **Web Development**
