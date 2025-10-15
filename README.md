@@ -13,10 +13,6 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 **Web Development**
  - Angular (currently learning)
  - PHP / Laravel
-    
-**Backend & Databases**
-  - Java, Spring Boot (currently learning)
-  - SQL
 
 #### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/henintsoa-razafinime-79a69125b/)
