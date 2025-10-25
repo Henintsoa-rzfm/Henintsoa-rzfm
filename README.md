@@ -9,4 +9,6 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 
 #### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical)
+
 
