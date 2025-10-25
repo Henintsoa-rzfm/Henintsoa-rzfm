@@ -10,3 +10,6 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 
 #### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/henintsoa-razafinime-79a69125b/)
+
+#### 📊 My GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=radical)
