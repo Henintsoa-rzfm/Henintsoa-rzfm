@@ -6,7 +6,8 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 **Web Development**
  - Angular (currently learning)
  - PHP / Laravel
- - ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 #### 📫 How to reach me
