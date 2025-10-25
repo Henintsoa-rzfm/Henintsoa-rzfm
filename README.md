@@ -8,4 +8,4 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=light)
