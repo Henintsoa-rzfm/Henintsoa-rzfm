@@ -4,10 +4,10 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 #### 🛠️ Technologies & Tools
 
 **Web Development**
- - Angular (currently learning)
- - PHP / Laravel
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 #### 📫 How to reach me
