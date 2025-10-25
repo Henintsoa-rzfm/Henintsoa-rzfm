@@ -7,9 +7,5 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-
-#### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/henintsoa-razafinime-79a69125b/)
-
 #### 📊 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=radical)
