@@ -13,10 +13,5 @@ My name is Henintsoa RAZAFINIME, I'm an information system and business intellig
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henintsoa-rzfm&show_icons=true&theme=transparent&hide_border=true&card_width=500) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=transparent&hide_border=true&card_width=500) |
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henintsoa-rzfm&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henintsoa-rzfm&layout=compact&theme=default)
-
-
-
 
 
